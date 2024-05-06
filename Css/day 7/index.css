@@ -24,3 +24,21 @@ img{
     flex-direction: column;
     justify-content: space-around;
 }
+.container{
+    display: flex;
+    justify-content:space-around;
+}
+.school{
+    display:flex;
+    justify-content: space-around;
+    width: 350px;
+}
+.parent{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr
+
+
+}
+.school img{
+    width: 30%;
+}
