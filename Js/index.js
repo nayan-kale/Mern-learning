@@ -42,22 +42,25 @@
   //}
   //console.log(str);
   //}
-var num=1
-for(let i = 0; i < 10; i++){
-  let str = "";
-  for(let j=1;j<=i;j++){
-    str +=num+" ";
-    num++;
-  }
-  console.log(str);
-}
+//var num=1
+//for(let i = 0; i < 10; i++){
+  //let str = "";
+  //for(let j=1;j<=i;j++){
+   // str +=num+" ";
+    //num++;
+  //}
+  //console.log(str);
+//}
 
-var num=1
-for(let i = 0; i < 10; i++){
-  let str = "";
-  for(let j=1;j<=i;j++){
-    str +=num+" ";
-    num*=2;
-  }
-  console.log(str);
-}
+//var num=1
+//for(let i = 0; i < 10; i++){
+  //let str = "";
+  //for(let j=1;j<=i;j++){
+    //str +=num+" ";
+    //num*=2;
+  //}
+  //console.log(str);
+//}
+
+
+
